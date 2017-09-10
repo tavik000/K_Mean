@@ -20,7 +20,7 @@ Author: key
 
 ## Screenshots
 
-![scr01](https://github.com/tavik000/K_Mean/raw/master/Screenshots/scr01.jpg)
+![scr01](https://github.com/tavik000/K_Mean/raw/master/Screenshots/scr01.png)
 
 
 
